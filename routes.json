@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "path": "/",
+            "title": "Home"
+        },
+        {
+            "path": "/index.php",
+            "title": "Home"
+        },
+        {
+            "path": "/sobre.php",
+            "title": "Sobre"
+        },
+        {
+            "path": "/livro.php",
+            "title": "Meu Livro"
+        },
+        {
+            "path": "/contato.php",
+            "title": "Contato"
+        }
+    ]
+}
